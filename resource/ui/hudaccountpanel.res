@@ -1,0 +1,101 @@
+"Resource/UI/HudAccountPanel.res"
+{
+	"CHudAccountPanel"
+	{
+		"delta_item_x"			"15"
+		"delta_item_start_y"	"90"
+		"delta_item_end_y"		"70"
+		"PositiveColor"			"0 255 0 255"
+		"NegativeColor"			"255 0 0 255"
+		"delta_lifetime"		"1.5"
+		"delta_item_font"		"HudFontMedium"
+	}
+	
+	"AccountBG"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"AccountBG"
+		"xpos"			"10"
+		"ypos"			"110"
+		"zpos"			"0"
+		"wide"			"60"
+		"tall"			"25"
+		"visible"		"1"
+		"visible_minmode" "0"
+		"enabled"		"1"
+		"image"			"../hud/color_panel_brown"
+		"scaleImage"		"1"
+		"teambg_1"		"../hud/color_panel_brown"
+		"teambg_2"		"../hud/color_panel_red"
+		"teambg_2_lodef"	"../hud/color_panel_red"
+		"teambg_3"		"../hud/color_panel_blu"
+		"teambg_3_lodef"	"../hud/color_panel_blu"
+		
+		"src_corner_height"		"23"				// pixels inside the image
+		"src_corner_width"		"23"
+			
+		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"5"	
+	}
+	"HudMetalBG"
+	{
+			"ControlName"	"CExLabel"
+			"fieldName"		"HudMetalBG"
+			"font"			"ItemFontNameSmallest"
+			"labelText"		""
+			"textAlignment"	"north-west"
+			"xpos"			"14"
+			"ypos"			"110"
+			"zpos"			"-1"
+			"wide"			"55"
+			"tall"			"25"
+			"visible"		"0"
+			"visible_minmode"	"1"
+			"PaintBackgroundType"	"2"
+			"bgcolor_override"	"0 0 0 150"
+	}
+	
+	"MetalIcon"	
+	{
+		"ControlName"	"CIconPanel"
+		"fieldName"		"MetalIcon"
+		"xpos"			"55"
+		"xpos_lodef"	"12"
+		"xpos_minmode"	"53"
+		"ypos"			"118"
+		"ypos_lodef"	"112"
+		"zpos"			"1"
+		"wide"			"10"
+		"wide_lodef"	"15"
+		"tall"			"10"
+		"tall_lodef"	"15"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"icon"			"ico_metal"
+		"iconColor"		"ProgressOffWhite"
+	}
+	
+	"AccountValue"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"AccountValue"
+		"xpos"			"8"
+		"ypos"			"111"
+		"ypos_lodef"	"121"
+		"zpos"			"2"
+		"wide"			"55"
+		"tall"			"26"
+		"autoResize"	"1"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"%metal%"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"HudFontMediumSmall"
+		"font_lodef"	"HudFontMedium"
+	}
+}
