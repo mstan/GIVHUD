@@ -1,6 +1,6 @@
 **For 16:9 non mini-mode only**
 
-Version: 1.02 alpha 
+Version: 1.1 alpha 
 
 HUD by http://steamcommunity.com/id/Gamemaster1379
 
@@ -9,6 +9,13 @@ Read about it here: http://facepunch.com/showthread.php?t=1447589&p=46983816#pos
 Special thanks to errur, who inspired this HUD and is responsible for its foundation and creation.
 
 
+1.1 Changes
+-Updated for Halloween
+-Removed unused Warlock icon
+
+1.03 Changes
+-Updated broken elements for new update
+-Damage numbers now shown in HUD
 
 1.02 Changes
 -Fixed "Status Elements" not showing up or showing up incorrectly (Mad Milk, Mark for Death, MannPower Upgrades), etc

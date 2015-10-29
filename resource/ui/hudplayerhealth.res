@@ -560,22 +560,6 @@
 		"image"			"../Effects/powerup_vampire_hud"
 		"fgcolor"		"TanDark"
 	}
-	"PlayerStatus_RuneWarlock"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"PlayerStatus_RuneWarlock"
-//		"xpos"			"0"
-		"ypos"			"185"
-		"ypos_minmode"	"c+26"
-		"zpos"			"7"
-		"wide"			"31"
-		"tall"			"31"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"	
-		"image"			"../Effects/powerup_warlock_hud"
-		"fgcolor"		"TanDark"
-	}
 	"PlayerStatus_RunePrecision"
 	{
 		"ControlName"	"ImagePanel"
