@@ -9,6 +9,7 @@
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"45 255 45 255" // RED GREEN BLUE ALPHA
 		"NegativeColor"			"255 255 30 255"
+//		"NegativeColor"			"0 255 0 255"		
 		"delta_lifetime"		"2"
 		"delta_item_font"		"HudFontMedium"
 		"delta_item_font_big"	"HudFontMediumBold"

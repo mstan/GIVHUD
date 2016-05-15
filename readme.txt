@@ -1,6 +1,8 @@
 **For 16:9 non mini-mode only**
 
-Version: 1.1 alpha 
+
+
+Version: 1.2 alpha 
 
 HUD by http://steamcommunity.com/id/Gamemaster1379
 
@@ -8,6 +10,10 @@ Read about it here: http://facepunch.com/showthread.php?t=1447589&p=46983816#pos
 
 Special thanks to errur, who inspired this HUD and is responsible for its foundation and creation.
 
+
+1.2 Changes
+-Update to handle new Matchmaking bugs and menus.
+-Fix mouseovermenu from cutting off text on loadout screen
 
 1.1 Changes
 -Updated for Halloween
