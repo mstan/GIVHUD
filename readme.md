@@ -2,7 +2,7 @@
 
 
 
-Version: 1.2 alpha 
+Version: 2.0.0 initial release
 
 HUD by http://steamcommunity.com/id/Gamemaster1379
 
@@ -10,6 +10,10 @@ Read about it here: http://facepunch.com/showthread.php?t=1447589&p=46983816#pos
 
 Special thanks to errur, who inspired this HUD and is responsible for its foundation and creation.
 
+
+2.0 Changes
+- Compatability up to Halloween 2018
+- Restructured to be auto generated with [HUDGEN](https://github.com/mstan/hudgen)
 
 1.2 Changes
 -Update to handle new Matchmaking bugs and menus.
