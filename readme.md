@@ -1,9 +1,9 @@
 **For 16:9 non mini-mode only**
 
 
-![/screenshots/20181029151849_1.jpg]
-![/screenshots/20181107172754_1.jpg]
-![/screenshots/20181107173017_1.jpg]
+![img 1](/screenshots/20181029151849_1.jpg)
+![img 2](/screenshots/20181107172754_1.jpg)
+![img 3](/screenshots/20181107173017_1.jpg)
 
 
 
